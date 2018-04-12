@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "519120376397",
+    "firebase_url": "https://pipitliandani1202154363m-35530.firebaseio.com",
+    "project_id": "pipitliandani1202154363m-35530",
+    "storage_bucket": "pipitliandani1202154363m-35530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519120376397:android:17cd7d14085c3942",
+        "android_client_info": {
+          "package_name": "com.example.android.dina_1202150267_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519120376397-7fmnkkcbpgthqbt1pv9scau7f1toji91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.dina_1202150267_modul6",
+            "certificate_hash": "c6e0b12b0de7aa7dc762a712d72455ce7d6a93a0"
+          }
+        },
+        {
+          "client_id": "519120376397-3g0lcl9jmiv5sl76fvrhbhfdn7v01cbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMh-WC_MruPNMM12ELSs02oQF-rnrWf-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519120376397-3g0lcl9jmiv5sl76fvrhbhfdn7v01cbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519120376397:android:520b602540bb2435",
+        "android_client_info": {
+          "package_name": "com.example.android.pipitliandani_1202154363_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519120376397-8chrlivsfsec5j00e46urr0g28v11pco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.pipitliandani_1202154363_modul6",
+            "certificate_hash": "c6e0b12b0de7aa7dc762a712d72455ce7d6a93a0"
+          }
+        },
+        {
+          "client_id": "519120376397-3g0lcl9jmiv5sl76fvrhbhfdn7v01cbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMh-WC_MruPNMM12ELSs02oQF-rnrWf-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519120376397-3g0lcl9jmiv5sl76fvrhbhfdn7v01cbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
